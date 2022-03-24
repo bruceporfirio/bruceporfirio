@@ -21,4 +21,4 @@
     
 </div>
      
-    ![Snake animation](https://github.com/bruceporfirio/bruceporfirio/blob/output/github-contribution-grid-snake.svg)
+   
